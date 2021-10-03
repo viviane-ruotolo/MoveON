@@ -1,0 +1,14 @@
+|28/05/2018
+|CÓDIGO: 1     
+|NOME: HERONDALE            
+|DESTINO: DUBLIN (EIR)             
+|ENDEREÇO: RUA DAS FLORES                           
+|QUANTIDADE DE PESSOAS: 3   
+|CÓDIGO DO INTERCAMBISTA: 1    
+|28/05/2018
+|CÓDIGO: 2     
+|NOME: WENTWORTH            
+|DESTINO: SAN DIEGO (EUA)          
+|ENDEREÇO: RUA DA PASSAGEM                          
+|QUANTIDADE DE PESSOAS: 3   
+|CÓDIGO DO INTERCAMBISTA: 2    
